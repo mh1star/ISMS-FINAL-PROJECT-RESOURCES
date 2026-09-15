@@ -1,7 +1,9 @@
 # ISMS-FINAL-PROJECT-RESOURCES
 ISMS FINAL PROJECT RESOURCES
 شكر وتقدير
+
 ​إشراف الدكتور: @aimanoz
+
 ​الجهة الأكاديمية: جامعة الناصر - تخصص الأمن السيبراني
 ​إعداد وإشراف الطلاب:
 ​محمد علي طاهر
